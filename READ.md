@@ -1,0 +1,11 @@
+##  Create Git Repo and pushing content to the personal domain
+- Create repo
+- create Git page out of this (basically website, with Git Domain) ex www.git.com/praveenkandasamy/blahblah
+- make sure you are happy with the format of the Git website as the entire damn thing will be pushed to your URL
+- buy URL on Go daddy ( you can buy from other companies but Go daddy is the easiest to set up)
+- go to DNS set up
+- Find Git DNS on google, there will be 4 of them, add them to your CNAME fields
+- Listen to this dude if you dont get it (https://www.youtube.com/watch?v=mPGi1IHQxFM)
+- go back to Git, change your custom domain 
+- commit webiste 
+- Magic things online 
