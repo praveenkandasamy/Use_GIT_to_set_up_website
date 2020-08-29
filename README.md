@@ -4,7 +4,8 @@
 - make sure you are happy with the format of the Git website as the entire damn thing will be pushed to your URL
 - buy URL on Go daddy ( you can buy from other companies but Go daddy is the easiest to set up)
 - go to DNS set up
-- Find Git DNS on google, there will be 4 of them, add them to your CNAME fields
+- Find Git DNS on google, there will be 4 of them, add that too go daddy site DNs. 
+- add CNAME file to Git site and add name of domain
 - Listen to this dude if you dont get it (https://www.youtube.com/watch?v=mPGi1IHQxFM)
 - go back to Git, change your custom domain 
 - commit webiste 
